@@ -1,0 +1,17 @@
+PODS:
+  - SQLite.swift (0.11.4):
+    - SQLite.swift/standard (= 0.11.4)
+  - SQLite.swift/standard (0.11.4)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - SQLite.swift (~> 0.11.4)
+  - YouTubePlayer
+
+SPEC CHECKSUMS:
+  SQLite.swift: 3e3bee21da701b5b9f87c4a672cb54f233505692
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 1c7ecdbde8aa095f547a0136d9ae021cf68a7f32
+
+COCOAPODS: 1.4.0
