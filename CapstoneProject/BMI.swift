@@ -4,7 +4,7 @@
 //
 //  Created by Xcode User on 2018-04-03.
 //  Copyright © 2018 Xcode User. All rights reserved.
-//
+// Git repo initialized
 
 import Foundation
 
